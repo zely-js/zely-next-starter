@@ -2,7 +2,7 @@
   "name": "zely-next",
   "version": "1.0.0",
   "dependencies": {
-    "zely": "next"
+    "zely": "latest"
   },
   "scripts": {
     "dev": "zely dev",
